@@ -1,3 +1,4 @@
 *.png
 Trained_Model/
 .DS_Store
+checkpoints/
